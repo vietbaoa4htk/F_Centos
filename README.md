@@ -11,19 +11,19 @@
 <hr />
 ####<a name="list-gems"></a>List of Gems using in this Application
 
- * Gem Rails ver 4.2.1
- * Gem Sqlite 3 
- * Gem Sass-rails ver 5.0
- * Gem Uglifier ver >= 1.3.0
- * Gem Coffee-rails ver 4.1.0
- * Gem Jquery-rails
- * Gem Turbolinks
- * Gem Jbuilder ver 2.0
- * Gem Sdoc ver 0.4.0
- * Gem Devise
- * Gem Byebug
- * Gem Web-console ver 2.0
- * Gem Sping
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Rails ver 4.2.1</a>
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Sqlite 3 </a>
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Sass-rails ver 5.0</a>
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Uglifier ver >= 1.3.0</a>
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Coffee-rails ver 4.1.0</a>
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Jquery-rails</a>
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Turbolinks</a>
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Jbuilder ver 2.0</a>
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Sdoc ver 0.4.0</a>
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Devise</a>
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Byebug</a>
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Web-console ver 2.0</a>
+ * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Sping</a>
  
 <hr />
 ###<a name="use"></a>How to use this app ?
@@ -55,5 +55,4 @@ Default number port is 3000
 
 <hr />
 All design by quyhn@hiworld.com.vn
-<hr />
 <hr />
