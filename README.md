@@ -55,5 +55,4 @@ Default address is <a href="https://localhost:3000">https://localhost:3000</a>
 * "Luong Tien Sy" <tiensyluong@example.com.vn>
 
 <hr />
-All design by quyhn@hiworld.com.vn
-<hr />
+![Rails tutorial- Banner - Design by QuyHn](https://lh3.googleusercontent.com/-Od-EE3mSpuo/VgzPmLjXYvI/AAAAAAAADVc/f8FyoNYcdBE/s987-Ic42/footer.png)
