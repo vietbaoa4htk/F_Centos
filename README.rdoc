@@ -1,4 +1,5 @@
 WELLCOME TO RAILS TUTORIAL DEVELOP BY F - CENTOS
+
 This Application using a gem
 
  * Gem Rails ver 4.2.1
@@ -15,11 +16,19 @@ This Application using a gem
  * Gem Web-console ver 2.0
  * Gem Sping
 
+
  Please run command line 
+
 	$ bundle install 
+
 to install all missing Gem before run this app.
+
 You can ran this app by using command line 
+
 	$ rails s [-p number port] 
+
 And see this application in the address
+
 	https://localhost:[number port]
+	
 Default number port is 3000
