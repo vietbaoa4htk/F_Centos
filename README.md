@@ -1,8 +1,8 @@
-##WELLCOME TO RAILS TUTORIAL DEVELOP BY F - CENTOS
+##RAILS TUTORIAL DEVELOP BY F - CENTOS
 <hr />
 ![Rails tutorial- Banner - Design by QuyHn](https://lh3.googleusercontent.com/-0spDEZIRvJY/VgyMO18CIhI/AAAAAAAADUA/yVGLhZxU63Y/s912-Ic42/Banner.png)
 <hr />
-####Table of content
+####Menu
 
 * [Team Members](#team-members)
 * [List of Gems using in this Application](#list-gems)
