@@ -1,8 +1,16 @@
-##WELLCOME TO RAILS TUTORIAL DEVELOP BY F - CENTOS##
+##WELLCOME TO RAILS TUTORIAL DEVELOP BY F - CENTOS
 <hr />
 ![Rails tutorial- Banner - Design by QuyHn](https://lh3.googleusercontent.com/-0spDEZIRvJY/VgyMO18CIhI/AAAAAAAADUA/yVGLhZxU63Y/s912-Ic42/Banner.png)
 <hr />
-This Application using a gem
+####Table of content
+
+* [Team Members](#team-members)
+* [List of Gems using in this Application](#list-gems)
+* [How to use this app ?](#use)
+
+<hr />
+####<a name="list-gems"></a>List of Gems using in this Application
+
  * Gem Rails ver 4.2.1
  * Gem Sqlite 3 
  * Gem Sass-rails ver 5.0
@@ -18,6 +26,7 @@ This Application using a gem
  * Gem Sping
  
 <hr />
+###<a name="use"></a>How to use this app ?
 Please run command line 
 
 `$ bundle install`
@@ -35,3 +44,11 @@ And see this application in the address
 Note:
 
 Default number port is 3000
+<hr />
+####<a name="team-members"></a>Team Members
+* "Hoang Ngoc Quy" <quyhn@hiworld.com.vn> 
+* "Do Tuan Anh" <tuananhdo@example.com.vn>
+* "Nguyen Van Toan" <vantoannguyen@example.com.vn>
+* "Nguyen Viet Huynh" <viethuynhnguyen@example.com.vn>
+* "Vu Tien Dung" <tiendungvu@example.com.vn>
+* "Luong Tien Sy" <tiensyluong@example.com.vn>
