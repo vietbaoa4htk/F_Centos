@@ -44,6 +44,7 @@ And see this application in the address
 Note:
 
 Default number port is 3000
+Default address is <a href="https://localhost:3000">https://localhost:3000</a>
 <hr />
 ####<a name="team-members"></a>Team Members
 * "Hoang Ngoc Quy" <quyhn@hiworld.com.vn> 
