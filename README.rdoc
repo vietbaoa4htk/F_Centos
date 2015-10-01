@@ -17,18 +17,20 @@ This Application using a gem
  * Gem Sping
 
 
- Please run command line 
 
-	$ bundle install 
+Please run command line 
 
-to install all missing Gem before run this app.
+	`$ bundle install` 
+
+To install all missing Gem before run this app.
 
 You can ran this app by using command line 
 
-	$ rails s [-p number port] 
+	`$ rails s [-p number port] `
 
 And see this application in the address
 
-	https://localhost:[number port]
-	
-Default number port is 3000
+	`https://localhost:[number port]`
+
+Note:
+	Default number port is 3000
