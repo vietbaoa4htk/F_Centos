@@ -1,2 +1,25 @@
-Wellcome to F_Centos of Website 
-Rails tutorial 
+WELLCOME TO RAILS TUTORIAL DEVELOP BY F - CENTOS
+This Application using a gem
+
+ * Gem Rails ver 4.2.1
+ * Gem Sqlite 3 
+ * Gem Sass-rails ver 5.0
+ * Gem Uglifier ver >= 1.3.0
+ * Gem Coffee-rails ver 4.1.0
+ * Gem Jquery-rails
+ * Gem Turbolinks
+ * Gem Jbuilder ver 2.0
+ * Gem Sdoc ver 0.4.0
+ * Gem Devise
+ * Gem Byebug
+ * Gem Web-console ver 2.0
+ * Gem Sping
+
+ Please run command line 
+	$ bundle install 
+to install all missing Gem before run this app.
+You can ran this app by using command line 
+	$ rails s [-p number port] 
+And see this application in the address
+	https://localhost:[number port]
+Default number port is 3000
