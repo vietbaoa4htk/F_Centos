@@ -1,4 +1,4 @@
-WELLCOME TO RAILS TUTORIAL DEVELOP BY F - CENTOS
+##WELLCOME TO RAILS TUTORIAL DEVELOP BY F - CENTOS##
 
 This Application using a gem
 
@@ -20,7 +20,7 @@ This Application using a gem
 
 Please run command line 
 
-	`$ bundle install` 
+$ bundle install
 
 To install all missing Gem before run this app.
 
