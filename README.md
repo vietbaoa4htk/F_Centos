@@ -54,3 +54,5 @@ Default number port is 3000
 * "Luong Tien Sy" <tiensyluong@example.com.vn>
 
 <hr />
+All design by quyhn@hiworld.com.vn
+<hr />
