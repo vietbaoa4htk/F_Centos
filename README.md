@@ -7,7 +7,8 @@
 * [Team Members](#team-members)
 * [List of Gems using in this Application](#list-gems)
 * [How to use this app ?](#use)
-
+* [Demo images ?](#demo-images)
+* 
 <hr />
 ####<a name="list-gems"></a>List of Gems using in this Application
 
@@ -54,5 +55,21 @@ Default address is <a href="https://localhost:3000">https://localhost:3000</a>
 * "Vu Tien Dung" <tiendungvu@example.com.vn>
 * "Luong Tien Sy" <tiensyluong@example.com.vn>
 
+####<a name="demo-images"></a>Demo - Images
+<hr />
+![Demo - images](https://lh3.googleusercontent.com/-xqxO5sHLecA/VhHZJs4l0-I/AAAAAAAADXA/UgudYIZyxMA/s640-Ic42/Mockup_11.jpg)
+<hr />
+![Demo - images](https://lh3.googleusercontent.com/-2B0iR5RMcjo/VhHZKisIczI/AAAAAAAADXM/pFeh_WzgZI8/s720-Ic42/Mockup_2.jpg)
+<hr />
+![Demo - images](https://lh3.googleusercontent.com/-naaV6m6U7W4/VhHZPUpT_NI/AAAAAAAADX8/9eZivbTyh-c/s640-Ic42/Mockup_8.jpg)
+<hr />
+![Demo - images](https://lh3.googleusercontent.com/-yaP3H02tBxs/VhHZIjbQF_I/AAAAAAAADW8/sVn5AWAxKFg/s720-Ic42/Mockup_10.jpg)
+<hr />
+![Demo - images](https://lh3.googleusercontent.com/-Zc1Gz1rKRMA/VhHZN0bW8dI/AAAAAAAADXs/FGzXPYMxEMY/s640-Ic42/Mockup_5.jpg)
+<hr />
+![Demo - images](https://lh3.googleusercontent.com/-hKVTCwvcFHE/VhHZQJqcuqI/AAAAAAAADYU/cbLxOlEXFwg/s720-Ic42/Mockup_7.jpg)
+<hr />
+![Demo - images](https://lh3.googleusercontent.com/-T_syg5LfZao/VhHZQL4nF7I/AAAAAAAADYQ/fRyE4GcRLO8/s720-Ic42/Mockup_9.jpg)
+<hr />
 <hr />
 ![Rails tutorial- Banner - Design by QuyHn](https://lh3.googleusercontent.com/-Od-EE3mSpuo/VgzPmLjXYvI/AAAAAAAADVc/f8FyoNYcdBE/s987-Ic42/footer.png)
