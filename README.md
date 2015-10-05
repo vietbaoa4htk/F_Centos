@@ -11,6 +11,7 @@
 * [How to use this app ?](#use)
 * [Team Members](#team-members)
 * [Demo images ?](#demo-images)
+* [Reference materials ](#docutment)
 
 
 <hr />
@@ -94,5 +95,9 @@ Default address is <a href="https://localhost:3000">https://localhost:3000</a>
 <hr />
 ![Demo - images](https://lh3.googleusercontent.com/-T_syg5LfZao/VhHZQL4nF7I/AAAAAAAADYQ/fRyE4GcRLO8/s720-Ic42/Mockup_9.jpg)
 <hr />
+####<a name="docutment"></a>Reference materials
+
+* [Rails tutorial] - <https://www.railstutorial.org/book/beginning> 
+
 <hr />
 ![Rails tutorial- Banner - Design by QuyHn](https://lh3.googleusercontent.com/-Od-EE3mSpuo/VgzPmLjXYvI/AAAAAAAADVc/f8FyoNYcdBE/s987-Ic42/footer.png)
