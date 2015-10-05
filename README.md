@@ -97,7 +97,10 @@ Default address is <a href="https://localhost:3000">https://localhost:3000</a>
 <hr />
 ####<a name="docutment"></a>Reference materials
 
-* [Rails tutorial] - <https://www.railstutorial.org/book/beginning> 
+* [Rails tutorial] - <https://www.railstutorial.org/book/beginning>
+* [Ruby on Rails] - <http://rubyonrails.org/>
+* [Try ruby] - <https://tryruby.org>
+* [Rails installer] - <http://railsinstaller.org/en>
 
 <hr />
 ![Rails tutorial- Banner - Design by QuyHn](https://lh3.googleusercontent.com/-Od-EE3mSpuo/VgzPmLjXYvI/AAAAAAAADVc/f8FyoNYcdBE/s987-Ic42/footer.png)
