@@ -48,12 +48,12 @@ Default number port is 3000<br />
 Default address is <a href="https://localhost:3000">https://localhost:3000</a>
 <hr />
 ####<a name="team-members"></a>Team Members
-* "Hoang Ngoc Quy" <quyhn@hiworld.com.vn> 
-* "Do Tuan Anh" <tuananhdo@example.com.vn>
-* "Nguyen Van Toan" <vantoannguyen@example.com.vn>
-* "Nguyen Viet Huynh" <viethuynhnguyen@example.com.vn>
-* "Vu Tien Dung" <tiendungvu@example.com.vn>
-* "Luong Tien Sy" <tiensyluong@example.com.vn>
+* "Hoang Ngoc Quy" - <quyhn@hiworld.com.vn> 
+* "Do Tuan Anh" - <tuananhdo@example.com.vn>
+* "Nguyen Van Toan" - <vantoannguyen@example.com.vn>
+* "Nguyen Viet Huynh" - <viethuynhnguyen@example.com.vn>
+* "Vu Tien Dung" - <tiendungvu@example.com.vn>
+* "Luong Tien Sy" - <tiensyluong@example.com.vn>
 
 ####<a name="demo-images"></a>Demo - Images
 <hr />
