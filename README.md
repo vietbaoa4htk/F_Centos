@@ -20,9 +20,13 @@
 Together with the development of the internet, Website has become increasingly popular, so how to make a Website ? . Which programming language can use for Website develop process ?. This tutorial will teach you : "How do do it ?"
 
 First ! This tutorial using Ruby and framework Ruby on Rails for make a Website ! . Why we using Ruby and Ruby on Rails ! . 
+
 Ruby is...
+
 A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+
 And why Rails ?
+
 Your choice, when learning a new framework, is an incredibly important one. It takes countless hours and effort to become proficient and learn all the best practices - even for experienced developers.
 
 That's why it's necessary to understand the peculiarities of a framework as early as possible, in order to determine if it's the right solution for the problem that you're trying to solve. In this article, I'll cover many of the key areas of the Ruby on Rails framework, and why I feel that it's an excellent choice for web developers.
