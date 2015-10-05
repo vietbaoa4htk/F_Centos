@@ -2,6 +2,8 @@
 <hr />
 ![Rails tutorial- Banner - Design by QuyHn](https://lh3.googleusercontent.com/-0spDEZIRvJY/VgyMO18CIhI/AAAAAAAADUA/yVGLhZxU63Y/s912-Ic42/Banner.png)
 <hr />
+![Images](https://lh3.googleusercontent.com/-_2HC-5qix9s/VhHjPVUP4ZI/AAAAAAAADY8/LhlVLtvCemM/s912-Ic42/Capture.JPG)
+<hr />
 ####Menu
 
 * [Team Members](#team-members)
@@ -9,7 +11,9 @@
 * [How to use this app ?](#use)
 * [Demo images ?](#demo-images)
 * 
+
 <hr />
+
 ####<a name="list-gems"></a>List of Gems using in this Application
 
  * Gem <a href="https://github.com/tuananhdinang/F_Centos/tree/ngocquyhoang">Rails ver 4.2.1</a>
